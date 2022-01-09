@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">说天气</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_buttom_layout"> </string>
+    <string name="main_iv_add"> </string>
+    <string name="main_iv_more"> </string>
+    <string name="main_layout_point"> </string>
+    <string name="item_center_tv_date"> </string>
+    <string name="item_center_tv_con"> </string>
+    <string name="item_center_tv_temp"> </string>
+    <string name="item_center_iv"> </string>
+    <string name="frag_layout"> </string>
+    <string name="frag_tv_currenttemp"> </string>
+    <string name="frag_tv_city"> </string>
+    <string name="frag_tv_condition"> </string>
+    <string name="frag_tv_date"> </string>
+    <string name="frag_tv_wind"> </string>
+    <string name="frag_tv_line1"> </string>
+    <string name="frag_tv_temprange"> </string>
+    <string name="frag_iv_today"> </string>
+    <string name="frag_center_layout"> </string>
+    <string name="frag_index_layout"> </string>
+    <string name="frag_index_tv_dress"> </string>
+    <string name="frag_index_tv_washcar"> </string>
+    <string name="frag_index_tv_cold"> </string>
+    <string name="frag_index_tv_sport"> </string>
+    <string name="frag_index_tv_rays"> </string>
+
+
+</resources>
